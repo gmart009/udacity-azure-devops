@@ -1,12 +1,11 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+The project deploys a Machine Learning application that predicts house prices in Boston given house attributes, such as house rooms. 
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* A link to a Trello board for the project: https://trello.com/b/OXwAIq3N/ml
+* A link to a spreadsheet that includes the original and final project plan> https://docs.google.com/spreadsheets/d/e/2PACX-1vTt4vtQsiF_C0PBh4ODCjn417omVvN1iWzpKynbBROILolDKPzl3tUEDiE8Ss4hoMM8NGUViOTyy37E/pubhtml
 
 ## Instructions
 
