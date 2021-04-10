@@ -62,7 +62,7 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+To improve the project, I would suggest adding tests that ensure predictions stay accurate and also add feedback from users to improve model.
 
 ## Demo 
 
