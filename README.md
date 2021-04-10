@@ -19,7 +19,12 @@ Architectural Diagram
 4. make changes to app and push changes to Github, at which point the automatic DevOps pipeline will build and test code, as well as deploy build into App Service plan
 5. After deployment is complete, you can locally test code by editing the ./make_predict_azure_app.sh file with the app service name.
 6. Run the /make_predict_azure_app.sh script and you should see the following output:
+Make Prediction Output
 ![make-prediction-output](make-prediction-output.png)
+
+Streamed Output
+![streamed-output](streamed-output.png)
+
 
 
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
