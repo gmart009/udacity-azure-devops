@@ -34,4 +34,8 @@ Streamed Output
 
 To improve the project, I would suggest adding tests that ensure predictions stay accurate and also add feedback from users to improve model.  I would also add a staging step in DevOps pipeline to only deploy code after Peer Review.
 
+## Demo
+
+https://youtu.be/UvjDETmIiCw
+
 
