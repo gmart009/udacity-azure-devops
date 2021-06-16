@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/gmart009/udacity-azure-devops/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/gmart009/udacity-azure-devops/actions/workflows/pythonapp.yml)
+
 # Overview
 
 The project deploys a Machine Learning application that predicts house prices in Boston given house attributes, such as house rooms.  The intent of this project is to incorporate Continuous Integration and Continuous Development with Python and Azure DevOps.. 
