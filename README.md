@@ -36,7 +36,8 @@ Streamed Output
 
 To improve the project, I would suggest adding tests that ensure predictions stay accurate and also add feedback from users to improve model.  I would also add a staging step in DevOps pipeline to only deploy code after Peer Review.
 
-## Test Output
+## Shell Cloned Dir and Test Output
+![azure-shell-cloned-dir](azure-shell-cloned-dir.png)
 ![test-output](test-output.png)
 
 ## Demo
