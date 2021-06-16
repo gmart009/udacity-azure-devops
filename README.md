@@ -1,6 +1,6 @@
 # Overview
 
-The project deploys a Machine Learning application that predicts house prices in Boston given house attributes, such as house rooms.  The intent of this project is to incorporate Continuous Integration and Continuous Development with Python and Azure DevOps. 
+The project deploys a Machine Learning application that predicts house prices in Boston given house attributes, such as house rooms.  The intent of this project is to incorporate Continuous Integration and Continuous Development with Python and Azure DevOps.. 
 
 ## Project Plan
 
