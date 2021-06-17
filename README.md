@@ -39,6 +39,8 @@ To improve the project, I would suggest adding tests that ensure predictions sta
 ## Shell Cloned Dir and Test Output
 ![azure-shell-cloned-dir](azure-shell-cloned-dir.png)
 ![test-output](test-output.png)
+![locust-results](locust-results.png)
+
 
 ## Demo
 

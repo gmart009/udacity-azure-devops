@@ -2,5 +2,6 @@ Flask==1.0.2
 pandas==0.24.2
 scikit-learn==0.20.3
 pylint==2.6.2
-pytest
-pytest-cov
+pytest==6.2.4
+pytest-cov==2.12.1
+locust==1.0.1
