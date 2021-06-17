@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/gustavomartinez0019/gustavomartinez/_apis/build/status/gmart009.udacity-azure-devops?branchName=main)](https://dev.azure.com/gustavomartinez0019/gustavomartinez/_build/latest?definitionId=1&branchName=main)
+[![Python application test with Github Actions](https://github.com/gmart009/udacity-azure-devops/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/gmart009/udacity-azure-devops/actions/workflows/pythonapp.yml)
 
 # Overview
 
