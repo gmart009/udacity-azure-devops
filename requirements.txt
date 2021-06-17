@@ -4,4 +4,4 @@ scikit-learn==0.20.3
 pylint==2.6.2
 pytest
 pytest-cov
-locust==0.14.6
+locustio==0.14.6
